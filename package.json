@@ -33,5 +33,9 @@
   "dependencies": {
     "create-react-class": "^15.7.0",
     "prop-types": "^15.5.10"
+  },
+  "devDependencies": {
+    "react": "^16.14.0",
+    "react-native": "^0.63.4"
   }
 }
